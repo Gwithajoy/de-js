@@ -43,3 +43,9 @@ lostDollar --;
 //string connection
 var favoriteAnimal = 'dog'
 console.log('My favorite animal:' + favoriteAnimal);
+
+//String Interpolation
+var myName = 'GleBang';
+var myCity = 'Seoul';
+
+console.log(`My name is ${myName}. My favorite city is ${myCity}.`);

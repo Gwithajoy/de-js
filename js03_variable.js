@@ -39,3 +39,7 @@ let lostDollar = 50;
 
 gainedDollar ++;
 lostDollar --;
+
+//string connection
+var favoriteAnimal = 'dog'
+console.log('My favorite animal:' + favoriteAnimal);

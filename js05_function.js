@@ -1,8 +1,10 @@
 //Function Declarations
 function getReminder() {
-    console.log('Water the plants.')
+    console.log('Water the plants.');
   }
   
 function greetInSpanish() {
-console.log('Buenas Tardes.')
+console.log('Buenas Tardes.');
 }
+
+//Calling a Function

@@ -7,11 +7,11 @@ console.log(numOfSlices);
 // let
 let changeMe =true;
 changeMe = false;
-console.log(changeMe)
+console.log(changeMe);
 
 //const
-const entree="Enchiladas"
-console.log(entree)
+const entree="Enchiladas";
+console.log(entree);
 
 // Mathematical Assignment Operators
 let levelUp = 10;
@@ -20,10 +20,10 @@ let multiplyMe = 32;
 let quarterMe = 1152;
 
 // Use the mathematical assignments in the space below:
-levelUp += 5
-powerLevel -= 100
-multiplyMe *= 11
-quarterMe /= 4
+levelUp += 5;
+powerLevel -= 100;
+multiplyMe *= 11;
+quarterMe /= 4;
 
 
 // These console.log() statements below will help you check the values of the variables.
